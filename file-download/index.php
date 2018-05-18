@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP File Downoader</title>
+	<title>PHP File Downloader</title>
 </head>
 <body>
 	<div class="container">
